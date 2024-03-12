@@ -1,36 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Guang Ma",
+    "label": "Accounting Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "guang.ma@rutgers.edu",
+    "phone": "(848) 445-4765",
+    "url": "https://guang-ma.github.io/",
+    "summary": "An Accounting Professor at Rutgers Business School, expertise in corporate disclosures, capital markets, and machine learning",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "100 Rockafeller Rd, Office 4133",
+      "postalCode": " NJ 08854",
+      "city": "Piscataway",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "GuangMa_Rutgers",
+        "url": "https://twitter.com/GuangMa_Rutgers"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Rutgers Business School, Rutgers University",
+      "position": "Associate Professor of Accounting & Information Systems",
+      "url": "https://www.business.rutgers.edu/",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "Teaching undergraduate, master, and Ph.D. students in accounting, data analytics, and artificial intelligence, at both the Newark and New Brunswick campuses."
     }
   ],
   "volunteer": [
