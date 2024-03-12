@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.business.rutgers.edu/faculty/guang-ma'>Rutgers Business School</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
       <p>Office 4133</p>
