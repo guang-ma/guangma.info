@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: data & code repositories
 description: data & code repositories used in my publications.
 nav: true
 nav_order: 4
