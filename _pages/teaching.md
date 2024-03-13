@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<a href="/teaching">Introduction to AI in Accounting & Auditing</a>
+<h4><a href="/teaching">Introduction to AI in Accounting & Auditing</a></h4>
 - Rutgers University
 - Graduate program, 2024 Spring
 - Enrollment: 40 in total
