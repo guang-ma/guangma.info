@@ -20,7 +20,7 @@ My research interests encompass corporate financial reporting and voluntary disc
 
 My teaching interests include: Data Analytics, Machine Learning, and AI in Accounting and Auditing, Financial Accounting (at all levels, including introductory, intermediate, and advanced), Accounting Theory, Accounting Information System, and Ph.D. Research Seminars.
 
-Fun facts about me:
+More personal information:
 - I am a hobbiest photographer, and have a collection of Sony equipment.
 - I like playing badminton, and roller blade skating.
 - I am a native Chinese speaker, and also know a bit of Spanish, French, and Japanese.
