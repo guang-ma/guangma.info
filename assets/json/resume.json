@@ -58,6 +58,23 @@
       "endDate": "2003"
     }
   ],
+  "services": [
+    {
+      "name": "Contemporary Accounting Research",
+      "position": "Editorial Board",
+      "startDate": "2023",
+      "endDate": "Now"
+    },
+    {
+      "position": "Ad-hoc Journal Reviewer",
+      "startDate": "2012",
+      "endDate": "Now",
+      "highlights": ["The Accounting Review", "Management Science", "Production and Operations Management", "Journal of Accounting, Auditing, and Finance",
+                    "European Accounting Review", "Journal of Economic Behavior & Organization", "Accounting Perspectives", "Asia-Pacific Journal of Financial Studies",
+                    "Review of Quantitative Financial Analysis"]
+    }
+  ],
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
