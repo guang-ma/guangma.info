@@ -6,6 +6,7 @@ description: courses that I have taught.
 nav: true
 nav_order: 6
 ---
+My teaching interests include: Data Analytics, Machine Learning, and AI in Accounting and Auditing, Financial Accounting (at all levels, including introductory, intermediate, and advanced), Accounting Theory, Accounting Information System, and Ph.D. Research Seminars.
 
 <h4><a href="/teaching">Introduction to AI in Accounting & Auditing</a></h4>
 - Rutgers University
