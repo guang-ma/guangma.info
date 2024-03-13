@@ -63,16 +63,50 @@
       "name": "Contemporary Accounting Research",
       "position": "Editorial Board",
       "startDate": "2023",
-      "endDate": "Now"
+      "endDate": "Now",
+      "url": "#services"
     },
     {
       "position": "Ad-hoc Journal Reviewer",
       "startDate": "2012",
       "endDate": "Now",
+      "url": "#services",
       "highlights": ["The Accounting Review", "Management Science", "Production and Operations Management", "Journal of Accounting, Auditing, and Finance",
                     "European Accounting Review", "Journal of Economic Behavior & Organization", "Accounting Perspectives", "Asia-Pacific Journal of Financial Studies",
                     "Review of Quantitative Financial Analysis"]
-    }
+    },
+    {
+      "name": "Research Grants Council (RGC) of Hong Kong",
+      "position": "Grant External Reviewer",
+      "startDate": "2019",
+      "endDate": "Now",
+      "url": "#services"
+    },
+    {
+      "position": "Conference Reviewer and Moderator",
+      "startDate": "2012",
+      "endDate": "Now",
+      "url": "#services",
+      "highlights": ["AAA Annual Meeting", "FARS Midyear Meeting", "IAS Midyear Meetingt", "EAA Annual Congress",
+                    "Hawaii Accounting Research Conference"]
+    },
+    {
+      "name": "McGill University",
+      "position": "University Services",
+      "startDate": "2019",
+      "endDate": "2023",
+      "url": "#services",
+      "highlights": ["Workshop committee", "UPC committee"]
+    },
+    {
+      "name": "National University of Singapore",
+      "position": "University Services",
+      "startDate": "2012",
+      "endDate": "2019",
+      "url": "#services",
+      "highlights": ["Workshop committee chair and coordinator", "Junior faculty recruiting committee",
+                    "Cerebration case competition, judge", "Honor theses examinere"]
+    }        
   ],
   "awards": [
     {
