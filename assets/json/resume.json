@@ -20,31 +20,22 @@
       "name": "Rutgers Business School, Rutgers University",
       "position": "Associate Professor",
       "url": "https://www.business.rutgers.edu/",
-      "startDate": "2023-09-01",
-      "endDate": "Present",
-      "summary": "Teaching undergraduate, master, and Ph.D. students in accounting, data analytics, and artificial intelligence, at both the Newark and New Brunswick campuses."
+      "startDate": "2023",
+      "endDate": "Present"
     },
     {
       "name": "Desautels Faculty of Management, McGill University",
       "position": "Assistant Professor",
       "url": "https://www.mcgill.ca/desautels/",
-      "startDate": "2019-09-01",
-      "endDate": "2023-08-31",
-      "highlights": ["Teaching undergraduate financial accounting, development of accounting thoughts",
-                     "Teaching Ph.D. research seminar",
-                     "Initiated workshop pre-colloquium series",
-                     "Organized the 2nd McGill Accounting Research Conference"]
+      "startDate": "2019",
+      "endDate": "2023"
     },
     {
       "name": "NUS Business School, National University of Singapore",
       "position": "Assistant Professor",
       "url": "https://bschool.nus.edu.sg/",
-      "startDate": "2012-08-01",
-      "endDate": "2019-06-30",
-      "highlights": ["Teaching undergraduate financial accounting",
-                     "Teaching Ph.D. research seminar",
-                     "Initiated workshop pre-colloquium series",
-                     "Active members of various committees"]
+      "startDate": "2012",
+      "endDate": "2019"
     }
   ],
   "education": [
@@ -53,18 +44,18 @@
       "location": "Dallas, TX, US",
       "url": "https://jindal.utdallas.edu/",
       "area": "Management Science, concentration in Accounting & Information Management",
-      "studyType": "PhD",
-      "startDate": "2007-08-01",
-      "endDate": "2012-07-31"
+      "studyType": "Ph.D.",
+      "startDate": "2007",
+      "endDate": "2012"
     },
     {
       "institution": "Peking University",
       "location": "Beijing, China",
       "url": "https://en.gsm.pku.edu.cn/index.htm",
       "area": "Finance",
-      "studyType": "MA and BBA",
-      "startDate": "1999-09-01",
-      "endDate": "2003-06-30"
+      "studyType": "M.A. and B.B.A.",
+      "startDate": "1999",
+      "endDate": "2003"
     }
   ],
   "awards": [
