@@ -440,6 +440,9 @@ jsonresume:
   - education
   - grants
   - services
+  - awards
+  - volunteers
+  - projects
   - certificates
   - skills
   - languages
