@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: # courses that I have taught.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 <h3>Teaching Interests</h3>
 Data Analytics, Machine Learning, and AI in Accounting and Auditing, Financial Accounting (at all levels, including introductory, intermediate, and advanced), Accounting Theory, Accounting Information System, and Ph.D. Research Seminars.

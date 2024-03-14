@@ -1,20 +1,11 @@
 ---
 layout: page
-permalink: /blog/
+permalink: /working/
 title: working papers
 description: visit <a href="https://ssrn.com/author=893683">SSRN</a> for all my working papers
 nav: true
-nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+nav_order: 3
+
 ---
 
 <div class="post">
@@ -101,8 +92,5 @@ pagination:
 
   </ul>
 
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
 
 </div>
