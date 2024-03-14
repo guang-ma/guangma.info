@@ -138,11 +138,13 @@
   "conferences": [
     {
       "name": "National Investor Relations Institute (NIRI) Annual Meeting",
+      "institution": "Panelist on AI",
       "location": "Chicago, IL, US",
       "date": "2023-06-10"
     },
     {
       "name": "Baruch-Fordham-Rutgers Accounting Symposium",
+      "institution": "Discussant",
       "location": "Newark, NJ, US",
       "date": "2023-05-05"
     }
