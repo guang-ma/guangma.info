@@ -2,6 +2,7 @@
 layout: page
 permalink: /blog/
 title: working papers
+description: visit <a href="https://ssrn.com/author=893683">SSRN</a> for all my working papers
 nav: true
 nav_order: 1
 pagination:
