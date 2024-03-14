@@ -6,7 +6,7 @@ description: # courses that I have taught.
 nav: true
 nav_order: 4
 ---
-
+<hr>
 <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium">Teaching Interests</h3>
     <div>
@@ -15,6 +15,7 @@ nav_order: 4
 </div>
 <br>
 <h3>Teaching Experience</h3>
+<hr>
 <h4><a href="/teaching">Introduction to AI in Accounting & Auditing</a></h4>
 - Rutgers University
 - Graduate program, 2024 Spring

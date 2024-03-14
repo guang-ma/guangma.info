@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 
 ---
-
+<hr>
 <div class="post">
 
   <ul class="post-list">

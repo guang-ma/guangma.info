@@ -6,13 +6,14 @@ description: # data & code repositories used in my publications.
 nav: true
 nav_order: 3
 ---
+<hr>
 <div class="publications">
     <div class="col-md-12">
       <h4> Disclaimer</h4>
         <p> You may download the data and programming codes for your research/teaching use. The data is provided as is. I would appreciate it if you make proper acknowledgements in your work. If you find any errors in the data and codes, please feel free to inform me. Thanks!</p>
     </div>
 </div>
-<br>
+<hr>
 <div class="publications">
       <div class="col-md-12">
         <h3><a href="https://github.com/guang-ma/tpp">TPP--Technological Peer Pressure</a></h3>
@@ -22,7 +23,7 @@ nav_order: 3
         {% include repository/repo.liquid repository='guang-ma/tpp' %} 
         </div>
 </div>
-<br>
+<hr>
 <div class="publications">
       <div class="col-md-12">
         <h3><a href="https://github.com/guang-ma/fss">FSS--Financial Statement Similarity</a></h3>
