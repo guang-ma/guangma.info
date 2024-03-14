@@ -2,9 +2,9 @@
 layout: page
 permalink: /working/
 title: working papers
-description: visit <a href="https://ssrn.com/author=893683">SSRN</a> for all my working papers
+description: projects I'm currently working on
 nav: true
-nav_order: 3
+nav_order: 2
 
 ---
 
