@@ -14,21 +14,21 @@ nav_order: 3
 </div>
 <br>
 <div class="row">
-      <div class="col-md-auto">
-        <h3>TPP--Technological Peer Pressure</h3>
+      <div class="col-md-9">
+        <h3><a href="https://github.com/guang-ma/tpp">TPP--Technological Peer Pressure</a></h3>
         <p>The 'TPP' measure proposed by Cao, Ma, Tucker, and Wan (2018). <a href ="https://doi.org/10.2308/accr-52056">'Technological Peer Pressure and Product Disclosure'</a>. The Accounting Review, Vol 93 (6), pp 95-126. </p>
         <p>The data file contains the TPP measure for Compustat firms for fiscal years 1990-2019, in Stata .dta format.</p>
-        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-center">
         {% include repository/repo.liquid repository='guang-ma/tpp' %} 
         </div>
 </div>
 <br>
 <div class="row">
-      <div class="col-md-auto">
-        <h3>FSS--Financial Statement Similarity</h3>
+      <div class="col-md-9">
+        <h3><a href="https://github.com/guang-ma/fss">FSS--Financial Statement Similarity</a></h3>
         <p>The 'FSS' measure proposed by Brown, Ma, and Tucker(2023). <a href ="https://doi.org/10.1111/1911-3846.12885">'Financial statement similarity'</a>. Contemporary Accounting Research, 40(4), 2577–2615. </p>
         <p>The data file contains the FSS measure for Compustat firms for fiscal years 1997-2021, in Stata .dta format.</p>
-        <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+        <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-center">
         {% include repository/repo.liquid repository='guang-ma/fss' %} 
         </div>
 </div>
