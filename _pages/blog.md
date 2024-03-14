@@ -4,22 +4,11 @@ permalink: /blog/
 title: working papers
 nav: true
 nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+
 ---
 
 <div class="post">
 
-
-{% if post.thumbnail %}
 
 <div class="row">
           <div class="col-sm-9">
@@ -65,7 +54,6 @@ pagination:
           {% endif %}
     </p>
 
-{% if post.thumbnail %}
 
 </div>
 
@@ -79,9 +67,5 @@ pagination:
     {% endfor %}
 
   </ul>
-
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
 
 </div>
