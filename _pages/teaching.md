@@ -13,6 +13,7 @@ nav_order: 4
         Data Analytics, Machine Learning, and AI in Accounting and Auditing, Financial Accounting (at all levels, including introductory, intermediate, and advanced), Accounting Theory, Accounting Information System, and Ph.D. Research Seminars.
     </div>
 </div>
+<br>
 <h3>Teaching Experience</h3>
 <h4><a href="/teaching">Introduction to AI in Accounting & Auditing</a></h4>
 - Rutgers University
