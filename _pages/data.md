@@ -28,7 +28,8 @@ nav_order: 3
       <div class="col-md-12">
         <h3><a href="https://github.com/guang-ma/fss">FSS--Financial Statement Similarity</a></h3>
         <p>The 'FSS' measure proposed by Brown, Ma, and Tucker(2023). <a href ="https://doi.org/10.1111/1911-3846.12885">'Financial statement similarity'</a>. Contemporary Accounting Research, 40(4), 2577–2615. </p>
-        <p>The data file contains the FSS measure for Compustat firms for fiscal years 1997-2021, in Stata .dta format.</p>
+        <p>The data file contains the FSS measure for Compustat firms for fiscal years 1997-2021, in Stata .dta format. Three versions of data for download: (1) the firm-year version; (2) the firm-pair version, transformation at 3-digit SIC industry level; (3) the firm-pair version, transformation at 2-digit SIC industry level.</p>
+        <p>A coding guidance for calculating FSS in R is also provided.</p>
         <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-center">
         {% include repository/repo.liquid repository='guang-ma/fss' %} 
         </div>
