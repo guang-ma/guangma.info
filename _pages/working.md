@@ -31,11 +31,9 @@ nav_order: 2
 
     <li>
 
-{% if post.thumbnail %}
 
 <div class="row">
-          <div class="col-sm-9">
-{% endif %}
+          <div class="col-sm-12">
         <h3>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -77,7 +75,6 @@ nav_order: 2
           {% endif %}
     </p>
 
-{% if post.thumbnail %}
 
 </div>
 
@@ -85,7 +82,7 @@ nav_order: 2
     <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
-{% endif %}
+
     </li>
 
     {% endfor %}
