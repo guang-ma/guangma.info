@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /data.html
-title: "Page not found"
-description: "Looks like there has been a mistake. Nothing exists here."
+title: "Data"
+description: "This is the outdated page, you will be redicted to the new 'Data' page."
 redirect: /data/
 ---
 
-You will be redirected to the main page within 3 seconds. If not redirected, please go back to the [home page]({{ site.baseurl | prepend: site.url }}).
+You will be redirected to the new "Data" page within 3 seconds. If not redirected, please go back to the [data page]({{ site.baseurl | append: '/data/'}}).
