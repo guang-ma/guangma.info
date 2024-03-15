@@ -3,9 +3,7 @@
   <!-- Head -->
   <head>
     {% if page.redirect %}
-      {% if page.redirect contains 'data' %}
-        {% assign redirect = site.baseurl | append: '/data/' %}    
-      {% elsif page.redirect == true %}
+      {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
       {% elsif page.redirect contains '://' %}
         {% assign redirect = page.redirect %}
