@@ -1,9 +1,6 @@
 ---
 layout: page
 permalink: /data/
-redirect_from:
-  - /data.html
-  - /data.htm
 title: data & code
 description: # data & code repositories used in my publications.
 nav: true
