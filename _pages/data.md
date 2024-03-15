@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /data/
+permalink: /data.html
 title: data & code
 description: # data & code repositories used in my publications.
 nav: true
