@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Guang Ma's Personal Website.
 keywords: accounting, guang-ma, accounting-professor, rutgers-accounting # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo_icon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://guangma.info # the base hostname & protocol for your site
 baseurl: #/al-folio, the subpath of your site, e.g. /blog/. Leave blank for root
