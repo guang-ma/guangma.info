@@ -16,10 +16,15 @@ nav_order: 4
 <br>
 <h3>Teaching Experience</h3>
 <hr>
+<h4><a href="/teaching">Empirical Research Bootcamp</a></h4>
+- Rutgers University
+- PhD program, 2025 Summer
+
 <h4><a href="/teaching">Introduction to AI in Accounting & Auditing</a></h4>
 - Rutgers University
-- Graduate program, 2024 Spring
-- Enrollment: 40 in total
+- Graduate program, 2024 Spring - present
+- Enrollment: 40 on average
+- Rating: 4.6/5
 
 <h4><a href="/teaching">Development of Accounting Thoughts (Accounting Theory)</a></h4>
 - McGill University

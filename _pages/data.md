@@ -18,7 +18,8 @@ nav_order: 3
       <div class="col-md-12">
         <h3><a href="https://github.com/guang-ma/tpp">TPP--Technological Peer Pressure</a></h3>
         <p>The 'TPP' measure proposed by Cao, Ma, Tucker, and Wan (2018). <a href ="https://doi.org/10.2308/accr-52056">'Technological Peer Pressure and Product Disclosure'</a>. The Accounting Review, Vol 93 (6), pp 95-126. </p>
-        <p>The data file contains the TPP measure for Compustat firms for fiscal years 1990-2019, in Stata .dta format.</p>
+        <p>The data file contains the TPP measure for Compustat firms for fiscal years up to 2023 and partial of 2024, in Stata .dta format.</p>
+        <p> The two components of TPP are also included in the data file </p>
         <div class="repositories d-flex flex-wrap flex-md-row flex-column align-items-center">
         {% include repository/repo.liquid repository='guang-ma/tpp' %} 
         </div>
